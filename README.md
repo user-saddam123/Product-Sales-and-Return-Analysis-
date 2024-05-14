@@ -6,7 +6,21 @@
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Project Objective:
+The objective of this project is to create a dashboard by analyzing a demo dataset of sales and returns. This dashboard aims to provide an easy-to-understand overview of insights derived from the analysis of sales and returns data.
 
+
+## About Dataset:
+The dataset provided for this project is a dummy dataset containing information on product sales, units, returns, categories, subcategories, and other relevant details.
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+## Dashborad Overview:
+![Screenshot 2024-05-13 150335](https://github.com/user-saddam123/Product-Sales-and-Return-Analysis-/assets/123800896/9dc21e57-59dd-4d20-bf8d-eff7307cfae4)
+
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+### Detailed Insights Explanation:
 **Here are some important KPIs derived from the dataset:**
 
  * Total Sales: $587 million
